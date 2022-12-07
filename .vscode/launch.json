@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExampleSpringBootMicrosoftExcelApplication<example-spring-boot-microsoft-excel>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.peenyaa7.examplespringbootmicrosoftexcel.ExampleSpringBootMicrosoftExcelApplication",
+            "projectName": "example-spring-boot-microsoft-excel",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
